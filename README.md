@@ -12,7 +12,7 @@
 
 <!-- INTRO -->
 
-<h2 align="center">🚀 AI Cybersecurity Developer | Tech Innovator </h2>
+<h2 align="center">🚀 AI and Cybersecurity Developer | Tech Innovator </h2>
 
 <p align="center">
 💡 Building intelligent & secure systems that solve real-world problems <br>
