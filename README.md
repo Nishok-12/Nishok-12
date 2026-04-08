@@ -84,6 +84,7 @@
 ---
 
 <h2>📊 Scurity Stats</h2>
+<!-- THM-UPDATE -->
 <p align="center">
   <a href="https://tryhackme.com/p/Nishok12">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Nishok12.png?cachebuster=1" />
