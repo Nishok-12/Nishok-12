@@ -84,7 +84,7 @@
 ---
 
 <h2>📊 Scurity Stats</h2>
-
+<p align="center">
   <a href="https://tryhackme.com/p/Nishok12">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Nishok12.png?cachebuster=1" />
   </a>
@@ -128,13 +128,6 @@
 
 ---
 
-<h2>🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/Nishok-12/Nishok-12/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 <p align="center">
 ⚡ <i>I don’t just build models — I build systems that make impact.</i>
