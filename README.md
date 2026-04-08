@@ -84,11 +84,21 @@
 ---
 
 <h2>📊 Scurity Stats</h2>
-<!-- THM-UPDATE -->
+
 <p align="center">
   <a href="https://tryhackme.com/p/Nishok12">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Nishok12.png?cachebuster=1" />
+    <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  🔥 Rank: <b>Top 15%</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🧠 Rooms Completed: <b>51+</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  ⚡ Current Streak: <b>12 days</b>
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Nishok12">👉 View Full Profile</a>
 </p>
 
 ---
