@@ -73,31 +73,8 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nishok-12&show_icons=true&theme=github_dark&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nishok-12&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 <h2>📊 Scurity Stats</h2>
 
-<p align="center">
-  <a href="https://tryhackme.com/p/Nishok12">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  🔥 Rank: <b>Top 15%</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🧠 Rooms Completed: <b>51+</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  ⚡ Current Streak: <b>12 days</b>
-</p>
-
-<p align="center">
   <a href="https://tryhackme.com/p/Nishok12">👉 View Full Profile</a>
 </p>
 
