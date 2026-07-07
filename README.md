@@ -154,7 +154,6 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 
 <p align="center">
   <a href="https://tryhackme.com/p/Nishok12">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Nishok12.png" alt="TryHackMe Badge"/>
   </a>
 </p>
 
