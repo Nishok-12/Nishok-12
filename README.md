@@ -1,127 +1,179 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=NISHOK%20A&fontSize=50&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=NISHOK%20A&fontSize=50&fontColor=fff&animation=fadeIn"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- ================= TYPING ANIMATION ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Cybersecurity+Enthusiast;Building+Real+World+Solutions;Future+Tech+Leader&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+and+Cybersecurity+Developer;IEEE+Best+Paper+Awardee;Creator+of+ARAM;Building+Secure+Intelligent+Systems&center=true&width=700&height=50"/>
 </p>
 
-<!-- INTRO -->
-
-<h2 align="center">🚀 AI and Cybersecurity Developer | Tech Innovator </h2>
+<h2 align="center">🚀 AI and Cybersecurity Developer</h2>
 
 <p align="center">
-💡 Building intelligent & secure systems that solve real-world problems <br>
-🏆 IEEE Best Paper Award | 🥇 Multi-College Innovation Winner
+Building intelligent and secure systems through Artificial Intelligence and Cybersecurity.
 </p>
 
 ---
 
-<h2>🔥 About Me</h2>
+## 🔥 About Me
 
-<ul>
-  <li>🎓 Final Year CSE @ GCE Bargur (Anna University)</li>
-  <li>🤖 Built <b>MediTrain AI</b> (94% accuracy, no pre-trained models)</li>
-  <li>📍 Creator of <b>SyncFence</b> (Multi-award-winning idea)</li>
-  <li>🛡️ Cybersecurity Enthusiast (SIEM, Threat Detection, Networking)</li>
-  <li>🧠 AI Intern @ Infosys Springboard</li>
-</ul>
-
----
-
-<h2>🚀 Featured Projects</h2>
-
-<ul>
-  <li>
-    <b>🧠 MediTrain AI</b><br>
-    <a href="https://github.com/Nishok-12/MediTrain_AI">GitHub Link</a><br>
-    AI-powered medical training system with 94% accuracy
-  </li>
-  <br>
-  <li>
-    <b>🏁 MotoGP Datathon</b><br>
-    <a href="https://github.com/Nishok-12/BURNOUT_A_MotoGP_Datathon">GitHub Link</a><br>
-    ML model to predict lap time using real dataset
-  </li>
-  <br>
-  <li>
-    <b>🌐 Phantasm Blaze</b><br>
-    <a href="https://github.com/Nishok-12/phantasm_blaze">GitHub Link</a><br>
-    Full-stack website with 40% engagement improvement
-  </li>
-  <br>
-  <li>
-    <b>💻 ARAM (Tamil Programming Language)</b><br>
-    Tkinter-based IDE with Tamil syntax execution
-  </li>
-</ul>
+* 🎓 Final Year B.E. Computer Science and Engineering, Government College of Engineering Bargur, Anna University
+* 🏆 IEEE Best Paper Awardee (ICCIDS 2026)
+* 💻 Creator of **ARAM**, a Tamil Syntax-Based Programming Language
+* 🛡️ ISC2 Certified in Cybersecurity
+* 🤖 AI/ML Project Intern at Infosys Springboard
+* 🌱 Interested in AI Engineering, Cybersecurity Operations and AI-driven Security Solutions
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+## 💼 Work Experience
+
+### 🤖 AI/ML Project Intern | Infosys Springboard
+
+📅 Nov 2024 – Feb 2025
+
+* Built **MediTrain AI** using Logistic Regression and Random Forest with **94% accuracy** without pre-trained models.
+* Developed a custom NLP pipeline improving symptom-to-treatment mapping and interpretability.
+
+---
+
+## 🚀 Featured Projects
+
+### ⚖️ IPC-Based Legal LLM
+
+* Developed an IPC-Based Legal LLM using Retrieval-Augmented Generation (RAG).
+* Implemented semantic search using FAISS and locally hosted LLaMA models via Ollama.
+* Enabled sub-second, context-aware legal document retrieval.
+
+🔗 Repository: https://github.com/Nishok-12
+
+---
+
+### 💻 ARAM – Tamil Programming Language
+
+* Architected and developed a Tamil-based programming language and Tkinter-based IDE.
+* Supports syntax highlighting and real-time execution.
+* Officially Copyright Registered by the Government of India.
+
+🔗 Repository: https://github.com/Nishok-12
+
+---
+
+### 🌐 Phantasm Blaze Website
+
+* Led full-stack development and deployment of the symposium platform.
+* Managed registrations and database queries for 100+ participants.
+* Integrated frontend, backend, database, and hosting.
+
+🔗 Repository: https://github.com/Nishok-12/phantasm_blaze
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
 
 <p>
-<b>Languages:</b> Python, C, JavaScript, SQL <br>
-<b>AI/ML:</b> Logistic Regression, Random Forest, NLP, LLM, Agentic AI <br>
-<b>Cybersecurity:</b> SIEM, Networking, Wireshark <br>
-<b>Tools:</b> Git, Linux, Docker, Postman, Vercel, Netlify, Render
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### 🤖 AI & ML
+
+`Machine Learning` • `Natural Language Processing` • `Large Language Models` • `Agentic AI` • `Feature Engineering` • `Data Analysis & Visualization`
+
+### 🛡️ Cybersecurity & Networking
+
+`Network Security` • `Vulnerability Assessment` • `Packet Analysis` • `SIEM Fundamentals` • `Secure Software Development` • `Linux Fundamentals` • `Subnetting & IP Addressing`
+
+### ⚙️ Tools & Software
+
+<p>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-<h2>📊 Scurity Stats</h2>
+## 🏆 Achievements
 
-  <a href="https://tryhackme.com/p/Nishok12">👉 View Full Profile</a>
-</p>
-
----
-
-<h2>🏆 Achievements</h2>
-
-<ul>
-  <li>🥇 SyncFence – 1st, 2nd, 3rd Prize (Multiple Colleges)</li>
-  <li>🏆 IEEE ICCIDS 2026 – Best Paper Award</li>
-  <li>🏁 Top 15 – MotoGP Datathon</li>
-  <li>🎖️ ISC2 Certified in Cybersecurity (CC)</li>
-  <li>📊 Top 5% – NPTEL AI Knowledge Representation </li>
-  <li>📊 NPTEL Domain - Artificial Intelligence</li>
-</ul>
+* 🏆 IEEE ICCIDS 2026 – Best Paper Award
+* 🥇 SyncFence – 1st, 2nd and 3rd Prize across multiple colleges
+* 📜 ARAM officially Copyright Registered under the Government of India
+* 🏁 Top 15 – BURNOUT MotoGP Datathon
+* 👨‍💼 Served as General Secretary and contributed to NSS activities
 
 ---
 
-<h2>🌱 Currently Working On</h2>
+## 📜 Certifications
 
-<ul>
-  <li>🤖 AI in Cybersecurity </li>
-  <li>📊 Real-world ML deployment</li>
-  <li>🛡️ SIEM & Security Operations</li>
-</ul>
+* 🛡️ ISC2 Certified in Cybersecurity (CC)
+* 🌐 Cisco Networking Basics
+* 🤖 NPTEL Domain Certification – Artificial Intelligence
+* 📊 Google Cloud Data Analytics Certificate
 
 ---
 
-<h2>📫 Connect With Me</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/nishok-a-ai">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishok-12&show_icons=true&theme=tokyonight"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishok-12&theme=tokyonight"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishok-12&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishok-a-ai">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:cyberkingnishok2005@gmail.com">
+  <a href="mailto:nishok.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/Nishok12">
+    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme"/>
   </a>
 </p>
 
 ---
 
-
 <p align="center">
-⚡ <i>I don’t just build models — I build systems that make impact.</i>
+⚡ <i>Building secure and intelligent systems that create real-world impact.</i>
 </p>
 
-<!-- FOOTER -->
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer"/>
