@@ -48,17 +48,13 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 * Implemented semantic search using FAISS and locally hosted LLaMA models via Ollama.
 * Enabled sub-second, context-aware legal document retrieval.
 
-🔗 Repository: https://github.com/Nishok-12
-
 ---
 
-### 💻 ARAM – Tamil Programming Language
+### 💻 ARAM – Tamil Programming Language & IDE
 
-* Architected and developed a Tamil-based programming language and Tkinter-based IDE.
-* Supports syntax highlighting and real-time execution.
+* Architected and developed a Tamil-based programming language supporting core language components and a Tkinter-based IDE.
+* Developed the ARAM IDE GUI with Tamil editor, syntax highlighting, and real-time execution.
 * Officially Copyright Registered by the Government of India.
-
-🔗 Repository: https://github.com/Nishok-12
 
 ---
 
@@ -67,8 +63,6 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 * Led full-stack development and deployment of the symposium platform.
 * Managed registrations and database queries for 100+ participants.
 * Integrated frontend, backend, database, and hosting.
-
-🔗 Repository: https://github.com/Nishok-12/phantasm_blaze
 
 ---
 
@@ -101,23 +95,29 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 
 ### 🤖 AI & ML
 
-`Machine Learning` • `Natural Language Processing` • `Large Language Models` • `Agentic AI` • `Feature Engineering` • `Data Analysis & Visualization`
+`Machine Learning` • `Natural Language Processing` • `Large Language Models` • `Agentic AI` • `AI Model Development` • `Feature Engineering` • `Data Analysis & Visualization`
 
 ### 🛡️ Cybersecurity & Networking
 
-`Network Security` • `Vulnerability Assessment` • `Packet Analysis` • `SIEM Fundamentals` • `Secure Software Development` • `Linux Fundamentals` • `Subnetting & IP Addressing`
+`Network Security` • `Vulnerability Assessment` • `Packet Analysis` • `SIEM Fundamentals` • `Secure Software Development` • `Cybersecurity Fundamentals` • `Networking Fundamentals` • `Linux Fundamentals` • `Subnetting & IP Addressing`
 
 ### ⚙️ Tools & Software
 
 <p>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Agile_Development-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
 ---
@@ -126,9 +126,18 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 
 * 🏆 IEEE ICCIDS 2026 – Best Paper Award
 * 🥇 SyncFence – 1st, 2nd and 3rd Prize across multiple colleges
-* 📜 ARAM officially Copyright Registered under the Government of India
 * 🏁 Top 15 – BURNOUT MotoGP Datathon
 * 👨‍💼 Served as General Secretary and contributed to NSS activities
+
+---
+
+## ©️ Intellectual Property
+
+### 💻 ARAM – Tamil Syntax-Based Programming Language and IDE
+
+* Officially Copyright Registered under the Government of India (2026)
+* Certificate No: **LD-20260184780**
+* Designed and developed to make programming accessible in regional languages.
 
 ---
 
@@ -141,14 +150,12 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 
 ---
 
-## 📊 GitHub Stats
+## 🛡️ TryHackMe
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishok-12&show_icons=true&theme=tokyonight"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishok-12&theme=tokyonight"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishok-12&layout=compact&theme=tokyonight"/>
+  <a href="https://tryhackme.com/p/Nishok12">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Nishok12.png" alt="TryHackMe Badge"/>
+  </a>
 </p>
 
 ---
@@ -162,8 +169,8 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
   <a href="mailto:nishok.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://tryhackme.com/p/Nishok12">
-    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme"/>
+  <a href="https://github.com/Nishok-12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
