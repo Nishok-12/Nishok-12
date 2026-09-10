@@ -132,7 +132,7 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 
 ## 🏆 Achievements
 
-* 🏆 **Best Paper Award — IEEE ICCIDS 2026**, selected from **990 submissions** (100 selected for presentation)
+* 🏆 **Best Paper Award — IEEE ICCIDS 2026**, among **~900+ submissions**
 * 🏆 **Best Paper Award — ICAIH 2026**, among **~150+ submissions**
 * 🧠 **AIR 12/~14,500+ (Top 5%)** — NPTEL AI: Knowledge Representation and Reasoning, IIT Madras
 * **Capture The Flag**: Successfully completed the 14-day TryHackMeHacker Holidays CTF, demonstrating **practical skills across OSINT, Web Hacking, API Hacking, AI in Security, Forensics, and Boot2Root.**
