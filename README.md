@@ -20,12 +20,13 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 
 ## 🔥 About Me
 
-* 🎓 Final Year B.E. Computer Science and Engineering, Government College of Engineering Bargur, Anna University
-* 🏆 IEEE Best Paper Awardee (ICCIDS 2026)
-* 💻 Creator of **ARAM**, a Tamil Syntax-Based Programming Language
-* 🛡️ ISC2 Certified in Cybersecurity
-* 🤖 AI/ML Project Intern at Infosys Springboard
-* 🌱 Interested in AI Engineering, Cybersecurity Operations and AI-driven Security Solutions
+* 🎓 Computer Science and Engineering graduate from Government College of Engineering Bargur, Anna University
+* 🏆 **Two-time Best Paper Awardee** — IEEE ICCIDS 2026 & ICAIH 2026
+* 💻 Creator of **ARAM**, a Tamil Syntax-Based Programming Language and IDE
+* 🛡️ **ISC2 Certified in Cybersecurity (CC)**
+* 🤖 Former **AI/ML Project Intern at Infosys Springboard**
+* 🧠 **NPTEL AIR 12/~14,500+ (Top 5%)** in AI: Knowledge Representation and Reasoning
+* 🌱 Interested in AI Engineering, Cybersecurity Operations, and AI-driven Security Solutions
 
 ---
 
@@ -35,34 +36,42 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 
 📅 Nov 2024 – Feb 2025
 
-* Built **MediTrain AI** using Logistic Regression and Random Forest with **94% accuracy** without pre-trained models.
-* Developed a custom NLP pipeline improving symptom-to-treatment mapping and interpretability.
+* Built **MediTrain AI** from scratch using Logistic Regression and Random Forest, achieving **94% accuracy** without pre-trained models.
+* Developed a custom NLP pipeline in an Agile environment, improving symptom-to-treatment mapping accuracy by **30%**.
 
 ---
 
 ## 🚀 Featured Projects
+### 💻 ARAM – Tamil Programming Language & IDE
+
+* Architected and developed **ARAM**, a Tamil-based programming language supporting core language components and a Tkinter-based IDE.
+* Developed the ARAM IDE with a **Tamil editor, syntax highlighting, and real-time execution**.
+* Officially **Copyright Registered by the Government of India** under the Copyright Act, 1957.
+* Certificate No: **LD-20260184780**
+
+---
+
+### 🏥 MediTrain AI – AI-Powered Medical Training Platform
+
+* Developed an AI-driven patient simulation and diagnostic training platform for medical learners.
+* Built machine-learning models using **Logistic Regression and Random Forest**, achieving **94% accuracy without pre-trained models**.
+* Developed a custom NLP pipeline for symptom-to-treatment mapping and integrated ML-based prediction into the application.
+
+---
 
 ### ⚖️ IPC-Based Legal LLM
 
-* Developed an IPC-Based Legal LLM using Retrieval-Augmented Generation (RAG).
-* Implemented semantic search using FAISS and locally hosted LLaMA models via Ollama.
-* Enabled sub-second, context-aware legal document retrieval.
+* Developed an IPC-Based Legal LLM using **Retrieval-Augmented Generation (RAG)** for intelligent legal query handling.
+* Implemented semantic search using **FAISS** and locally hosted **LLaMA models via Ollama**.
+* Enabled **sub-second, context-aware legal document retrieval** without external API dependencies.
 
 ---
 
-### 💻 ARAM – Tamil Programming Language & IDE
-
-* Architected and developed a Tamil-based programming language supporting core language components and a Tkinter-based IDE.
-* Developed the ARAM IDE GUI with Tamil editor, syntax highlighting, and real-time execution.
-* Officially Copyright Registered by the Government of India.
-
----
-
-### 🌐 Phantasm Blaze Website
+### 🌐 Phantasm Blaze Symposium Website
 
 * Led full-stack development and deployment of the symposium platform.
-* Managed registrations and database queries for 100+ participants.
-* Integrated frontend, backend, database, and hosting.
+* Managed registrations and database queries for **100+ participants**.
+* Integrated **frontend, backend, database, and hosting** for smooth deployment.
 
 ---
 
@@ -73,7 +82,6 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 ### 🌐 Web Development
@@ -95,11 +103,11 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 
 ### 🤖 AI & ML
 
-`Machine Learning` • `Natural Language Processing` • `Large Language Models` • `Agentic AI` • `AI Model Development` • `Feature Engineering` • `Data Analysis & Visualization`
+`Machine Learning` • `Natural Language Processing (NLP)` • `Large Language Models (LLMs)` • `RAG` • `Agentic AI` • `AI Model Development` • `Feature Engineering` • `Data Analysis & Visualization`
 
 ### 🛡️ Cybersecurity & Networking
 
-`Network Security` • `Vulnerability Assessment` • `Packet Analysis` • `SIEM Fundamentals` • `Secure Software Development` • `Cybersecurity Fundamentals` • `Networking Fundamentals` • `Linux Fundamentals` • `Subnetting & IP Addressing`
+`Network Security` • `Vulnerability Assessment` • `Packet Analysis` • `SIEM Fundamentals` • `Secure Software Development` • `Cybersecurity Fundamentals` • `Networking Fundamentals` • `Linux Fundamentals` • `Subnetting & IP Addressing` • `CIS 18 Controls` • `OWASP Top 10` • `Identity and Access Management (IAM)`
 
 ### ⚙️ Tools & Software
 
@@ -111,10 +119,10 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Agile_Development-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
@@ -124,29 +132,33 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 
 ## 🏆 Achievements
 
-* 🏆 IEEE ICCIDS 2026 – Best Paper Award
-* 🥇 SyncFence – 1st, 2nd and 3rd Prize across multiple colleges
-* 🏁 Top 15 – BURNOUT MotoGP Datathon
-* 👨‍💼 Served as General Secretary and contributed to NSS activities
+* 🏆 **Best Paper Award — IEEE ICCIDS 2026**, selected from **990 submissions** (100 selected for presentation)
+* 🏆 **Best Paper Award — ICAIH 2026**, among **~150+ submissions**
+* 🧠 **AIR 12/~14,500+ (Top 5%)** — NPTEL AI: Knowledge Representation and Reasoning, IIT Madras
+* **Capture The Flag**: Successfully completed the 14-day TryHackMeHacker Holidays CTF, demonstrating **practical skills across OSINT, Web Hacking, API Hacking, AI in Security, Forensics, and Boot2Root.**
+* 🥇 **1st, 2nd & 3rd Prize** across multiple colleges for **SyncFence**
+* 🏁 **Top 15 — BURNOUT MotoGP Datathon**
+* 👨‍💼 Served as **General Secretary** and contributed to **NSS activities**
 
 ---
 
 ## ©️ Intellectual Property
 
-### 💻 ARAM – Tamil Syntax-Based Programming Language and IDE
+### 💻 ARAM – Tamil Syntax-Based Programming Language & IDE
 
-* Officially Copyright Registered under the Government of India (2026)
+* Officially **Copyright Registered by the Government of India**
+* Registered under the **Copyright Act, 1957**
 * Certificate No: **LD-20260184780**
-* Designed and developed to make programming accessible in regional languages.
+* Designed and developed to make programming accessible through a Tamil-based programming language.
 
 ---
 
 ## 📜 Certifications
 
-* 🛡️ ISC2 Certified in Cybersecurity (CC)
-* 🌐 Cisco Networking Basics
-* 🤖 NPTEL Domain Certification – Artificial Intelligence
-* 📊 Google Cloud Data Analytics Certificate
+* 🛡️ **ISC2 Certified in Cybersecurity (CC)**
+* 🤖 **NPTEL Domain Certification — Artificial Intelligence**
+* 🌐 **Cisco Networking Academy — Networking Basics**
+* 📊 **Google Cloud Data Analytics Certificate**
 
 ---
 
@@ -154,7 +166,7 @@ Building intelligent and secure systems through Artificial Intelligence and Cybe
 
 <p align="center">
   <a href="https://tryhackme.com/p/Nishok12">
-    Check-out my TryHackMe Credentials
+    Check out my TryHackMe Credentials
   </a>
 </p>
 
